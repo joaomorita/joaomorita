@@ -40,15 +40,17 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaomorita&theme=dark&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=joaomorita&theme=dark&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=joaomorita&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br>
+  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomorita&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomorita&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
@@ -56,3 +58,15 @@
   <br>
   
 </p>
+
+  
+</p>
+
+<hr>
+
+<div align="center">
+  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jo%C3%A3o-vitor-morita-848669224/)
+
+</div>
